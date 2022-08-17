@@ -2,8 +2,8 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar esse projeto necessario instalar:
+Para rodar esse projeto necessario executar:
 
 ```
-npn --install react
+node app.js
 ```
